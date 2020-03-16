@@ -1,0 +1,7 @@
+# Archivos
+password.txt
+
+# Carpetas
+node_modules/
+db/
+database/
